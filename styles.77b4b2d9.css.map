@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,OACI,YACJ,CAEA,OAGI,sBACJ,CAEA,OACI,cACJ","file":"styles.77b4b2d9.css","sourceRoot":"..","sourcesContent":[".timer {\r\n    display: flex;\r\n}\r\n\r\n.field {\r\n    /* height: 100px; */\r\n    /* width: 100px; */\r\n    background-color: green;\r\n}\r\n\r\n.value {\r\n    font-size: 50px;\r\n}"]}
