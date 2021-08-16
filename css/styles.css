@@ -1,0 +1,13 @@
+.timer {
+    display: flex;
+}
+
+.field {
+    /* height: 100px; */
+    /* width: 100px; */
+    background-color: green;
+}
+
+.value {
+    font-size: 50px;
+}
